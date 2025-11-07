@@ -33,8 +33,8 @@ Make sure you have the following installed on your system:
 
 # Database Configuration
 spring.datasource.url=jdbc:mysql://localhost:3306/hotel_management
-spring.datasource.username=root
-spring.datasource.password=root
+spring.datasource.username=****
+spring.datasource.password=****
 
 # JPA Configuration
 spring.jpa.hibernate.ddl-auto=update
@@ -46,6 +46,7 @@ server.port=8080
 # JWT Configuration
 jwt.secret=mySecretKey
 jwt.expiration=86400000
+
 
 
 
