@@ -27,6 +27,7 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/hotel-management-system.git
+   git clone https://github.com/Arockiajerin/hotel-management-system.git
    cd hotel-management-system/frontend
+
 
