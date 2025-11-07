@@ -1,0 +1,21 @@
+
+button {
+  margin-top: -7px;
+}
+.float-right {
+  float: right;
+  
+}
+mat-card{
+    padding: 23px;
+}
+table {
+    width: 100%;
+}
+::ng-deep .highlighted {
+    color: white;
+    background: #673AB7;
+}
+.responsive_table {
+  overflow-x: auto;
+}
