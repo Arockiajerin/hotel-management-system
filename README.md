@@ -29,23 +29,24 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/Arockiajerin/hotel-management-system.git
    cd hotel-management-system/frontend
-##application.properties:
+## Application.properties:
 
-# Database Configuration
-spring.datasource.url=jdbc:mysql://localhost:3306/hotel_management
-spring.datasource.username=****
-spring.datasource.password=****
+## Database Configuration
+- spring.datasource.url=jdbc:mysql://localhost:****/hotel_management
+- spring.datasource.username=****
+- spring.datasource.password=****
 
-# JPA Configuration
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
+## JPA Configuration
+- spring.jpa.hibernate.ddl-auto=update
+- spring.jpa.show-sql=true
 
-# Server Configuration
-server.port=8080
+## Server Configuration
+- server.port=8080
 
-# JWT Configuration
-jwt.secret=mySecretKey
-jwt.expiration=86400000
+## JWT Configuration
+- jwt.secret=mySecretKey
+- jwt.expiration=*****
+
 
 
 
